@@ -10,7 +10,7 @@ contained follows:
 
 ## Author
 
-* __Brennan D Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
+* __Diego Ugoh__ <[UgohDiegoKC](https://github.com/UgohDiegoKC)>
 
 ## Acknowledgements
 
